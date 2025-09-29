@@ -1,4 +1,4 @@
 # projects-demo
 this is my all projects
 <br>
-Author:Pruthvi Rajn
+Author:Pruthvi Raj
