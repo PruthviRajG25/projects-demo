@@ -69,9 +69,9 @@ This repository is created to:
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Develeoped By
 
 **Pruthvi Raj G**
-Web Developer | Problem Solver | AI Enthusiast
+
 
 -
