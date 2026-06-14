@@ -68,6 +68,4 @@ This repository is created to:
 ## 👨‍💻 Develeoped By
 
 **Pruthvi Raj G**
-
-
 -
