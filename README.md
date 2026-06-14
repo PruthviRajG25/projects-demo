@@ -29,11 +29,7 @@ This repository contains a collection of projects I built while learning **Front
 * Simple tic tac toe game
 * Logic-based project
 
-### 🎵 Spotify Clone
 
-* UI clone of Spotify
-* Built using HTML & CSS
-* Focus on layout and styling
 
 ---
 
